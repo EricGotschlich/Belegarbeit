@@ -415,7 +415,7 @@
 import { computed, reactive, ref } from "vue";
 
 /* ===== Layout / Tabs ===== */
-const activeTab = ref("baukasten"); // war: tab
+const activeTab = ref("mengen"); // war: tab
 
 /* ===== Aufgabe: Primärbedarf ist gegeben (nicht vom User) ===== */
 const primaryDemand = ref(20);
