@@ -2,8 +2,8 @@
 
 ## Autor
 
-Julia Thao Vy Nguyen  
-Matrikelnummer: (bitte eintragen)
+Eric Gotschlich
+Matrikelnummer: (593929)
 
 ## Projektbeschreibung
 
