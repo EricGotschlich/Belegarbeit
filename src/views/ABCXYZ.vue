@@ -53,10 +53,10 @@
           <tr>
             <th>Artikel</th>
             <th class="num">Verbrauch </th>
-            <th class="num">Wert (€)</th>
-            <th class="num">Verbrauchswert (€)</th>
-            <th class="num">Anteil (%)</th>
-            <th class="num">Kumuliert (%)</th>
+            <th class="num">Wert in €</th>
+            <th class="num">Verbrauchswert in €</th>
+            <th class="num">Anteil in %</th>
+            <th class="num">Anteil Kumuliert in %</th>
             <th class="num">ABC-Klasse</th>
           </tr>
           </thead>
