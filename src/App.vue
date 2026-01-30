@@ -27,18 +27,18 @@
               </RouterLink>
             </li>
             <li class="nav-item">
-              <RouterLink class="nav-link" to="/abc-xyz">
-                <i class="mdi mdi-chart-line me-1"></i> ABC/XYZ
-              </RouterLink>
-            </li>
-            <li class="nav-item">
               <RouterLink class="nav-link" to="/stuecklistenanalyse">
-                <i class="mdi mdi-sitemap-outline me-1"></i> Materialbedarf
+                <i class="mdi mdi-sitemap-outline me-1"></i> Stücklistenanalyse
               </RouterLink>
             </li>
             <li class="nav-item">
               <RouterLink class="nav-link" to="/bestellverfahren">
                 <i class="mdi mdi-cart-outline me-1"></i> Bestellverfahren
+              </RouterLink>
+            </li>
+            <li class="nav-item">
+              <RouterLink class="nav-link" to="/abc-xyz">
+                <i class="mdi mdi-chart-line me-1"></i> ABC/XYZ
               </RouterLink>
             </li>
             <li class="nav-item">

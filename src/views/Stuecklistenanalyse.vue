@@ -303,7 +303,9 @@
                 <thead>
                 <tr>
                   <th>Position</th>
-                  <th class="center">Dein Ergebnis</th>
+                  <th class="center">
+                    <span class="thShift">Dein Ergebnis</span>
+                  </th>
                   <th class="center">Status</th>
                   <th class="center" v-if="showSol">Lösung</th>
                 </tr>
@@ -311,7 +313,7 @@
                 <tbody>
                 <tr v-for="r in mengenRows" :key="r.key">
                   <td><b>{{ r.label }}</b></td>
-                  <td class="center">
+                  <td class="center resultCol">
                     <input
                         class="inp sm"
                         v-model="mengenUser[r.key]"
@@ -1257,6 +1259,16 @@ function onReset() {
 .zielBadge:focus-visible {
   outline: 2px solid rgba(73, 163, 255, 0.25);
   outline-offset: 2px;
+}
+/* Ganze Ergebnis-Spalte (Header + Inputs) leicht nach rechts */
+.resultCol {
+  padding-left: 500px !important; /* teste z.B. 24px–48px */
+}
+.thShift{
+  display: inline-block;
+  transform: translateX(600px); /* z.B. 8–20px testen */
+  font-weight: inherit;   /* <- übernimmt wieder das Fett vom <th> */
+
 }
 
 </style>
