@@ -2,10 +2,12 @@
 
 ## Autor
 
-Julia Thao Vy Nguyen  
-Matrikelnummer: (bitte eintragen)
+Eric Gotschlich 
+Matrikelnummer: 593929
 
 ## Projektbeschreibung
+
+https://belegarbeit-216b.onrender.com/
 
 Diese Anwendung ist eine interaktive E‑Learning‑Komponente für das Fach Produktionswirtschaft/Logistik an der HTW.
 Sie visualisiert **3 Methoden** (ABC‑/XYZ‑Analyse, Stücklistenanalyse, Bestellverfahren) sowie **einen logistischen Zielkonflikt** (Bestände ↔ Lieferfähigkeit).
