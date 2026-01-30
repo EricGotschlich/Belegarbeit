@@ -2,7 +2,7 @@
 
 ## Autor
 
-Eric Gotschlich 
+Eric Gotschlich
 Matrikelnummer: 593929
 
 ## Projektbeschreibung

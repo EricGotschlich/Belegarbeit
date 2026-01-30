@@ -52,10 +52,10 @@
           <thead>
           <tr>
             <th>Artikel</th>
-            <th class="num">Jahresverbrauch (Stück)</th>
-            <th class="num">Preis pro Stück (€)</th>
-            <th class="num">Jahresverbrauchswert (€)</th>
-            <th class="num">Anteil am Gesamtwert (%)</th>
+            <th class="num">Verbrauch </th>
+            <th class="num">Wert (€)</th>
+            <th class="num">Verbrauchswert (€)</th>
+            <th class="num">Anteil (%)</th>
             <th class="num">Kumuliert (%)</th>
             <th class="num">ABC-Klasse</th>
           </tr>
